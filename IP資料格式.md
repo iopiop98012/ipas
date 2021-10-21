@@ -1,6 +1,7 @@
 # IP資料的格式 
 
-![ip](https://user-images.githubusercontent.com/90738468/138279769-6307aa0e-7c29-412b-a91d-35e1be506de3.png)  
+![IP格式](https://user-images.githubusercontent.com/90738468/138281109-6da4e304-8bee-4181-bb87-d8dc1cc575f2.PNG)
+  
 ## Version:  
 表示IP的版本，現在的版本是4。  
 ## Header Length:  
