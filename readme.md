@@ -136,9 +136,11 @@ WHERE user_id = '$id'
       - [EC-Council CASE .NET應用程式安全工程師認證課程](https://www.uuu.com.tw/Course/Show/1501/EC-Council-CASE-NET%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F%E5%AE%89%E5%85%A8%E5%B7%A5%E7%A8%8B%E5%B8%AB%E8%AA%8D%E8%AD%89%E8%AA%B2%E7%A8%8B)
     - 應用程式的安全威脅
       - 逆向工程
+      - 在無法輕易獲得必要的生產資訊下，直接從成品的分析，推導產品的設計原理。
     - 安全程式開發(secure code standard)
     - 程式的安全防護
       - 代碼渾淆
+      - 是將電腦程式的原始碼或機器碼，轉換成功能上等價，但是難於閱讀和理解的形式的行為。
       - 加核與加密 
     - 開發安全與SSDLC
 
