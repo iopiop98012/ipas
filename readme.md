@@ -72,6 +72,7 @@
       - systeminternals 
     - windows server技術:[官方網站](https://docs.microsoft.com/en-us/windows-server/)
       - Active Directory(AD) ==> LDAP
+      - 通過IP協定提供存取控制和維護分散式資訊的目錄資訊。
       - Group Policy(GP) ==>  gpedit.msc [Local Group Policy Editor](https://www.isunshare.com/windows-10/5-ways-to-access-local-group-policy-editor-on-windows-10.html)
       - Windows Server Update Services (WSUS)
     - [Windows security眾多文件] (https://docs.microsoft.com/en-us/windows/security/)
