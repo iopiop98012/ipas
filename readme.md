@@ -66,7 +66,9 @@
     - windows 作業系統常用指令 [Windows commands](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)
     - windows 作業系統管理與安全工具
       - task manager
+      - 工作管理員
       - event viewer
+      - 事件檢視器
       - systeminternals 
     - windows server技術:[官方網站](https://docs.microsoft.com/en-us/windows-server/)
       - Active Directory(AD) ==> LDAP
