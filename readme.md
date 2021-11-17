@@ -202,6 +202,7 @@ WHERE user_id = '$id'
   - 3-3.日誌管理
     - 日誌管理基本觀念
     - 日誌類型==> (A)系統日誌檔 (B) 應用程式日誌檔 (C) 安全性日誌檔
+![2021-11-17 203445](https://user-images.githubusercontent.com/90738468/142203392-9097ac7a-6573458091dcbecffd1e45e3.png)
     - Windows 作業系統日誌檔
     - 日誌分析
     - 日誌管理
