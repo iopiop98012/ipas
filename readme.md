@@ -186,11 +186,13 @@ WHERE user_id = '$id'
         - 差異備份(Differential Backup)  
          與增量備份類似，差異備份用於根據上次完全備份備份已更改的數據。
          也就是說，它是基於完全備份，而不是增量備份。
-         對於其優點，它可以幫助提高備份效率並減少映像檔案所需的存儲磁碟空間。
+         對於其優點，它可以幫助提高備份效率並減少映像檔案所需的存儲磁碟空間
+![OIP](https://user-images.githubusercontent.com/90738468/142200750-f2c8f4e6-12d9-48b5-8f03-3c2388e85850.jpg)
         - 增量備份(Incremental Backup)
-         增量備份是指根據第一次完整備份或最後一次備份，然後備份已更改和新添加的數據。
+          增量備份是指根據第一次完整備份或最後一次備份，然後備份已更改和新添加的數據。
          根據最後一次備份，增量備份將不會備份相同的數據。
          增量備份是基於最後一次備份的，所以它們之間會有相互依賴的關係。
+![OIP1](https://user-images.githubusercontent.com/90738468/142200608-57eebd1c-57b8-42cb-b6d3-c8ccd2f90521.jpg)
       - 儲存媒體
       - RAID 
       - 備份管理作業
@@ -200,6 +202,7 @@ WHERE user_id = '$id'
     - Windows 作業系統日誌檔
     - 日誌分析
     - 日誌管理
+
 
   - 3.4.資安防護技術
     - [Mitre D3FEND™ - A knowledge graph of cybersecurity countermeasures](https://d3fend.mitre.org/) 
